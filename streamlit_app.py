@@ -1,6 +1,6 @@
 import streamlit 
-streamlit.title('Wtf do you want?')
-streamlit.header('Really tho, what do you want?!')
-streamlit.text('Eat chicken?')
-streamlit.text('Eat pork??')
-streamlit.text('Eat hamburger?!')
+streamlit.title('My Parents New Healthy Diner')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
